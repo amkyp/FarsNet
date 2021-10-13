@@ -1,2 +1,2 @@
 # FarsNet
-A python wrapper for FarnNet API in Java
+A python wrapper for FarsNet API in Java
